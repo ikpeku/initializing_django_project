@@ -1,0 +1,1 @@
+# initializing_django_project
